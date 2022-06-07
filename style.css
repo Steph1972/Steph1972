@@ -1,7 +1,19 @@
 h1{
+font-size: 50px;
+text-align: Center;
+color: #032EFE
+}
+
+h2{
 font-size: 30px;
-text-align: center;
-color: #de7471
+text-align: left;
+color: #032EFE
+}
+
+h3{
+font-size: 30px;
+text-align: left;
+color: #032EFE
 }
 
 p{
